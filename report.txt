@@ -1,0 +1,21 @@
+=== Пользователь и дата ===
+velix228
+pk
+Thu Nov 19 21:46:09 MSK 2026
+
+=== inventory.ini ===
+cat: inventory.ini: No such file or directory
+
+=== setup-server.yml ===
+cat: setup-server.yml: No such file or directory
+
+=== Проверка синтаксиса ===
+ERROR! the playbook: setup-server.yml could not be found
+
+=== ping ===
+[WARNING]: Unable to parse /mnt/c/Users/user/coffee-shop/inventory.ini as an
+inventory source
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+[WARNING]: Could not match supplied host pattern, ignoring: servers
